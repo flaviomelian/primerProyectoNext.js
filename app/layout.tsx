@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Carlos D",
+  title: "Next JS",
   description: "Primer proyecto de Next.js de Carlos Díaz",
 };
 
