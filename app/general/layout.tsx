@@ -9,7 +9,6 @@ export default function AboutLayout({
     <>
       <Navbar /> 
       <main className='flex flex-col items-center p-24'>
-        <span className='text-lg'>Hola gordo</span>
         { children }
       </main>
     </>

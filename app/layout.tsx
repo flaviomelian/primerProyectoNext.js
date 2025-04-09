@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Next JS",
-  description: "Primer proyecto de Next.js de Carlos Díaz",
+  description: "Primer proyecto de Next.js de Flavio Melián",
 };
 
 export default function RootLayout({children,}: Readonly<{ children: React.ReactNode;
